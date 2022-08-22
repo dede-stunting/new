@@ -8,7 +8,7 @@ public class UseAccount {
         Account secondAccount = new Account();
 
     //    out.println(yourAccount.name);
-        firstAccount.name = "Chiedu David";
+        firstAccount.name = "Charles David";
         firstAccount.address = "1, Nigerian Development Foundation";
         firstAccount.balance = 724.70;
         secondAccount.name = "Chiedu C. Daniel";
