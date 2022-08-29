@@ -25,6 +25,6 @@ public class UseAccount {
         out.print(secondAccount.address);
         out.print(") has $");
         out.print(secondAccount.balance);
-        out.println("Thanks for Banking with us");
+        out.println("Thanks for Banking ");
     }
 }
